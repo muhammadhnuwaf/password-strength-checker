@@ -1,0 +1,11 @@
+
+# Password Strength Checker - Requirements
+# No external dependencies required
+# Uses only Python standard library
+
+# Built-in modules used:
+# - re (regular expressions)
+# - hashlib (hash functions)
+# - getpass (hidden input)
+# - datetime (timestamps)
+# - typing (type hints)
