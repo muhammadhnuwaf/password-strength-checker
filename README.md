@@ -54,9 +54,46 @@ Password security assessment is critical for:
 
 ---
 
-## 🚀 How to Run
+📷 Example Output
 
-### Clone Repository
+## Example Output
 
-```bash
-git clone https://github.com/YOUR_USERNAME/password-strength-checker.git
+![Password Checker Demo](screenshot.png)
+
+📚 What I Learned
+Password entropy calculation (log2(charset) * length)
+
+NIST SP 800-63B password guidelines
+
+Regular expression pattern matching
+
+Common password blacklist implementation
+
+Pattern detection algorithms
+
+Professional report generation
+
+Type hints in Python
+
+🔐 Security Standards Implemented
+Standard	Implementation
+NIST SP 800-63B	Length recommendations
+OWASP	Complexity guidelines
+HaveIBeenPwned concept	Common password blacklist
+🔄 Future Enhancements
+HaveIBeenPwned API integration
+
+GUI interface using tkinter
+
+Password generator feature
+
+Bulk password file analysis
+
+JSON/CSV export options
+
+🔐 Disclaimer
+This tool is for educational purposes only. Passwords are processed locally and never stored or transmitted. Always use unique passwords for different services.
+
+👨‍💻 Author
+Muhammadh Nuwaf
+
