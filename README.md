@@ -58,7 +58,7 @@ Password security assessment is critical for:
 
 ## Example Output
 
-![Password Checker Demo](screenshot.png)
+![Password Checker Demo](screenshots/screenshot.png)
 
 📚 What I Learned
 Password entropy calculation (log2(charset) * length)
